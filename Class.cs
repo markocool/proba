@@ -1,0 +1,4 @@
+class MyClass
+{
+    // Prvi komit
+}
